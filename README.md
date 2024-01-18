@@ -6,6 +6,6 @@ I'm a Software Engineer writting code using the TALL stack 🌟.
 
 I'm currently working at [Globant](https://www.globant.com) as a PHP Developer Senior. 
 
-I like to share content about PHP & Laravel ecosystem, also tips for learning english 🇺🇸 (currently learning too) and how to get into the IT world for new padawans 👦 👧.
+I like to share content about PHP & Laravel ecosystem in [Laraveleando](https://laraveleando.dev)
 
 For more details please visit [my website](https://javierpoma.com). 
