@@ -2,10 +2,10 @@
 
 Hi 😄
 
-I'm a Software Engineer writting code using the TALL stack 🌟.
+I'm a Software Engineer writting code using the Laravel Ecosystem 🌟.
 
 I'm currently working at [Curotec](https://www.curotec.com/) as a Software Engineer. 
 
-I like to share content about PHP & Laravel ecosystem in [Laraveleando](https://laraveleando.dev)
+I have some side projects like [Chekatupromo](https://chekatupromo.com) and [Litura](https://litura.app).
 
 For more details please visit [my website](https://javierpoma.com). 
